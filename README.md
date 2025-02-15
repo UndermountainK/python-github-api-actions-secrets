@@ -1,6 +1,6 @@
 # python-github-api-actions-secrets
 
-GitHub API integration to add repo secrets
+GitHub API integration to add or list repo secrets. For frequent usage put values to the .env file.
 
 ## Requirements
 
